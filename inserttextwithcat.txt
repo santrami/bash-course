@@ -1,0 +1,5 @@
+Este es un texto ingresado desde consola con el curso bash script
+puedo poner varias líneas
+y finalmente terminar con control + djuntando texto
+con un solo mayor que, se reemplaza el contenido >
+con dos mayor que, se agrega >>
